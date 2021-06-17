@@ -1,0 +1,199 @@
+-----------------------------------------------------------------------------------------------------------
+Dataset Description:
+dataset_name:banana           data_number:5300   data_dimension:2      positive_sample:2376   negative_sample:2924 
+dataset_name:breast_cancer    data_number:263    data_dimension:9      positive_sample:77     negative_sample:186  
+dataset_name:diabetis         data_number:768    data_dimension:8      positive_sample:268    negative_sample:500  
+dataset_name:flare_solar      data_number:144    data_dimension:9      positive_sample:94     negative_sample:50   
+dataset_name:german           data_number:1000   data_dimension:20     positive_sample:300    negative_sample:700  
+dataset_name:heart            data_number:270    data_dimension:13     positive_sample:120    negative_sample:150  
+dataset_name:image            data_number:2086   data_dimension:18     positive_sample:1188   negative_sample:898  
+dataset_name:ringnorm         data_number:7400   data_dimension:20     positive_sample:3664   negative_sample:3736 
+dataset_name:splice           data_number:2991   data_dimension:60     positive_sample:1344   negative_sample:1647 
+dataset_name:thyroid          data_number:215    data_dimension:5      positive_sample:65     negative_sample:150  
+dataset_name:titanic          data_number:24     data_dimension:3      positive_sample:14     negative_sample:10   
+dataset_name:twonorm          data_number:7400   data_dimension:20     positive_sample:3703   negative_sample:3697 
+dataset_name:waveform         data_number:5000   data_dimension:21     positive_sample:1647   negative_sample:3353 
+-----------------------------------------------------------------------------------------------------------
+Classification accuracy
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset banana
+The accuracy of using Adaboost method to classify banana is:0.610062893081761%
+The accuracy of using Ridge method to classify banana is:0.5547169811320755%
+The accuracy of using LinearDiscriminant method to classify banana is:0.5547169811320755%
+The accuracy of using Svc method to classify banana is:0.7289308176100628%
+The accuracy of using NuSvc method to classify banana is:0.6773584905660377%
+The accuracy of using SGD method to classify banana is:0.5547169811320755%
+The accuracy of using KNeighbors method to classify banana is:0.6849056603773584%
+The accuracy of using Nearest method to classify banana is:0.5559748427672956%
+The accuracy of using GaussianProcess method to classify banana is:0.6943396226415094%
+The accuracy of using DecisionTree method to classify banana is:0.7477987421383647%
+The accuracy of using Calibrated method to classify banana is:0.43647798742138366%
+The accuracy of using MLP method to classify banana is:0.6515723270440251%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset breast_cancer
+The accuracy of using Adaboost method to classify breast_cancer is:0.6923076923076923%
+The accuracy of using Ridge method to classify breast_cancer is:0.7564102564102564%
+The accuracy of using LinearDiscriminant method to classify breast_cancer is:0.7435897435897436%
+The accuracy of using Svc method to classify breast_cancer is:0.7051282051282052%
+The accuracy of using NuSvc method to classify breast_cancer is:0.7051282051282052%
+The accuracy of using SGD method to classify breast_cancer is:0.6410256410256411%
+The accuracy of using KNeighbors method to classify breast_cancer is:0.7307692307692307%
+The accuracy of using Nearest method to classify breast_cancer is:0.7051282051282052%
+The accuracy of using GaussianProcess method to classify breast_cancer is:0.6794871794871795%
+The accuracy of using DecisionTree method to classify breast_cancer is:0.782051282051282%
+The accuracy of using Calibrated method to classify breast_cancer is:0.7051282051282052%
+The accuracy of using MLP method to classify breast_cancer is:0.7307692307692307%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset diabetis
+The accuracy of using Adaboost method to classify diabetis is:0.7391304347826086%
+The accuracy of using Ridge method to classify diabetis is:0.7043478260869566%
+The accuracy of using LinearDiscriminant method to classify diabetis is:0.7086956521739131%
+The accuracy of using Svc method to classify diabetis is:0.6347826086956522%
+The accuracy of using NuSvc method to classify diabetis is:0.6565217391304348%
+The accuracy of using SGD method to classify diabetis is:0.6086956521739131%
+The accuracy of using KNeighbors method to classify diabetis is:0.6565217391304348%
+The accuracy of using Nearest method to classify diabetis is:0.6652173913043479%
+The accuracy of using GaussianProcess method to classify diabetis is:0.7%
+The accuracy of using DecisionTree method to classify diabetis is:0.7739130434782608%
+The accuracy of using Calibrated method to classify diabetis is:0.6652173913043479%
+The accuracy of using MLP method to classify diabetis is:0.6521739130434783%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset flare_solar
+The accuracy of using Adaboost method to classify flare_solar is:0.7209302325581395%
+The accuracy of using Ridge method to classify flare_solar is:0.7209302325581395%
+The accuracy of using LinearDiscriminant method to classify flare_solar is:0.7209302325581395%
+The accuracy of using Svc method to classify flare_solar is:0.7441860465116279%
+The accuracy of using NuSvc method to classify flare_solar is:0.7441860465116279%
+The accuracy of using SGD method to classify flare_solar is:0.7441860465116279%
+The accuracy of using KNeighbors method to classify flare_solar is:0.6744186046511628%
+The accuracy of using Nearest method to classify flare_solar is:0.6046511627906976%
+The accuracy of using GaussianProcess method to classify flare_solar is:0.7441860465116279%
+The accuracy of using DecisionTree method to classify flare_solar is:0.6976744186046512%
+The accuracy of using Calibrated method to classify flare_solar is:0.7441860465116279%
+The accuracy of using MLP method to classify flare_solar is:0.7441860465116279%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset german
+The accuracy of using Adaboost method to classify german is:0.8633333333333333%
+The accuracy of using Ridge method to classify german is:0.87%
+The accuracy of using LinearDiscriminant method to classify german is:0.87%
+The accuracy of using Svc method to classify german is:0.8766666666666667%
+The accuracy of using NuSvc method to classify german is:0.8866666666666667%
+The accuracy of using SGD method to classify german is:0.8566666666666667%
+The accuracy of using KNeighbors method to classify german is:0.83%
+The accuracy of using Nearest method to classify german is:0.7866666666666666%
+The accuracy of using GaussianProcess method to classify german is:0.87%
+The accuracy of using DecisionTree method to classify german is:0.7733333333333333%
+The accuracy of using Calibrated method to classify german is:0.87%
+The accuracy of using MLP method to classify german is:0.8766666666666667%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset heart
+The accuracy of using Adaboost method to classify heart is:0.8148148148148148%
+The accuracy of using Ridge method to classify heart is:0.8024691358024691%
+The accuracy of using LinearDiscriminant method to classify heart is:0.8024691358024691%
+The accuracy of using Svc method to classify heart is:0.7901234567901234%
+The accuracy of using NuSvc method to classify heart is:0.8024691358024691%
+The accuracy of using SGD method to classify heart is:0.7654320987654321%
+The accuracy of using KNeighbors method to classify heart is:0.8271604938271605%
+The accuracy of using Nearest method to classify heart is:0.8148148148148148%
+The accuracy of using GaussianProcess method to classify heart is:0.7777777777777778%
+The accuracy of using DecisionTree method to classify heart is:0.7283950617283951%
+The accuracy of using Calibrated method to classify heart is:0.7654320987654321%
+The accuracy of using MLP method to classify heart is:0.7160493827160493%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset image
+The accuracy of using Adaboost method to classify image is:0.9712%
+The accuracy of using Ridge method to classify image is:0.8288%
+The accuracy of using LinearDiscriminant method to classify image is:0.84%
+The accuracy of using Svc method to classify image is:0.9056%
+The accuracy of using NuSvc method to classify image is:0.8944%
+The accuracy of using SGD method to classify image is:0.832%
+The accuracy of using KNeighbors method to classify image is:0.936%
+The accuracy of using Nearest method to classify image is:0.7328%
+The accuracy of using GaussianProcess method to classify image is:0.9264%
+The accuracy of using DecisionTree method to classify image is:0.9424%
+The accuracy of using Calibrated method to classify image is:0.4752%
+The accuracy of using MLP method to classify image is:0.96%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset ringnorm
+The accuracy of using Adaboost method to classify ringnorm is:0.9765765765765766%
+The accuracy of using Ridge method to classify ringnorm is:0.6252252252252253%
+The accuracy of using LinearDiscriminant method to classify ringnorm is:0.6252252252252253%
+The accuracy of using Svc method to classify ringnorm is:0.9873873873873874%
+The accuracy of using NuSvc method to classify ringnorm is:0.9864864864864865%
+The accuracy of using SGD method to classify ringnorm is:0.6441441441441441%
+The accuracy of using KNeighbors method to classify ringnorm is:0.6846846846846847%
+The accuracy of using Nearest method to classify ringnorm is:0.6972972972972973%
+The accuracy of using GaussianProcess method to classify ringnorm is:0.986936936936937%
+The accuracy of using DecisionTree method to classify ringnorm is:0.904054054054054%
+The accuracy of using Calibrated method to classify ringnorm is:0.9837837837837838%
+The accuracy of using MLP method to classify ringnorm is:0.9873873873873874%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset splice
+The accuracy of using Adaboost method to classify splice is:0.9453734671125975%
+The accuracy of using Ridge method to classify splice is:0.8439241917502787%
+The accuracy of using LinearDiscriminant method to classify splice is:0.8439241917502787%
+The accuracy of using Svc method to classify splice is:0.9230769230769231%
+The accuracy of using NuSvc method to classify splice is:0.9018952062430323%
+The accuracy of using SGD method to classify splice is:0.7881828316610925%
+The accuracy of using KNeighbors method to classify splice is:0.802675585284281%
+The accuracy of using Nearest method to classify splice is:0.8193979933110368%
+The accuracy of using GaussianProcess method to classify splice is:0.8483835005574136%
+The accuracy of using DecisionTree method to classify splice is:0.9409141583054627%
+The accuracy of using Calibrated method to classify splice is:0.875139353400223%
+The accuracy of using MLP method to classify splice is:0.9175027870680045%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset thyroid
+The accuracy of using Adaboost method to classify thyroid is:1.0%
+The accuracy of using Ridge method to classify thyroid is:0.71875%
+The accuracy of using LinearDiscriminant method to classify thyroid is:0.71875%
+The accuracy of using Svc method to classify thyroid is:0.96875%
+The accuracy of using NuSvc method to classify thyroid is:0.96875%
+The accuracy of using SGD method to classify thyroid is:0.78125%
+The accuracy of using KNeighbors method to classify thyroid is:0.921875%
+The accuracy of using Nearest method to classify thyroid is:0.609375%
+The accuracy of using GaussianProcess method to classify thyroid is:0.96875%
+The accuracy of using DecisionTree method to classify thyroid is:0.9375%
+The accuracy of using Calibrated method to classify thyroid is:0.9375%
+The accuracy of using MLP method to classify thyroid is:0.9375%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset titanic
+The accuracy of using Adaboost method to classify titanic is:0.5714285714285714%
+The accuracy of using Ridge method to classify titanic is:0.5714285714285714%
+The accuracy of using LinearDiscriminant method to classify titanic is:0.5714285714285714%
+The accuracy of using Svc method to classify titanic is:0.5714285714285714%
+The accuracy of using NuSvc method to classify titanic is:0.5714285714285714%
+The accuracy of using SGD method to classify titanic is:0.5714285714285714%
+The accuracy of using KNeighbors method to classify titanic is:0.5714285714285714%
+The accuracy of using Nearest method to classify titanic is:0.5714285714285714%
+The accuracy of using GaussianProcess method to classify titanic is:0.5714285714285714%
+The accuracy of using DecisionTree method to classify titanic is:0.42857142857142855%
+The accuracy of using Calibrated method to classify titanic is:0.42857142857142855%
+The accuracy of using MLP method to classify titanic is:0.5714285714285714%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset twonorm
+The accuracy of using Adaboost method to classify twonorm is:0.972072072072072%
+The accuracy of using Ridge method to classify twonorm is:0.9783783783783784%
+The accuracy of using LinearDiscriminant method to classify twonorm is:0.9783783783783784%
+The accuracy of using Svc method to classify twonorm is:0.9797297297297297%
+The accuracy of using NuSvc method to classify twonorm is:0.977027027027027%
+The accuracy of using SGD method to classify twonorm is:0.9761261261261261%
+The accuracy of using KNeighbors method to classify twonorm is:0.9675675675675676%
+The accuracy of using Nearest method to classify twonorm is:0.9761261261261261%
+The accuracy of using GaussianProcess method to classify twonorm is:0.2418918918918919%
+The accuracy of using DecisionTree method to classify twonorm is:0.881981981981982%
+The accuracy of using Calibrated method to classify twonorm is:0.9738738738738739%
+The accuracy of using MLP method to classify twonorm is:0.9806306306306306%
+------------------------------------------------------------------------------------
+Classification results of various algorithms on dataset waveform
+The accuracy of using Adaboost method to classify waveform is:0.8913333333333333%
+The accuracy of using Ridge method to classify waveform is:0.8706666666666667%
+The accuracy of using LinearDiscriminant method to classify waveform is:0.8726666666666667%
+The accuracy of using Svc method to classify waveform is:0.922%
+The accuracy of using NuSvc method to classify waveform is:0.9106666666666666%
+The accuracy of using SGD method to classify waveform is:0.8486666666666667%
+The accuracy of using KNeighbors method to classify waveform is:0.8906666666666667%
+The accuracy of using Nearest method to classify waveform is:0.8366666666666667%
+The accuracy of using GaussianProcess method to classify waveform is:0.9173333333333333%
+The accuracy of using DecisionTree method to classify waveform is:0.89%
+The accuracy of using Calibrated method to classify waveform is:0.8566666666666667%
+The accuracy of using MLP method to classify waveform is:0.9186666666666666%
